@@ -86,6 +86,7 @@ class IPInfo:
 		
 		address_broadcast = '.'.join(b)
 		subnet_address = '.'.join(n)
+		
 		return JSpace(broadcast=address_broadcast,subnet_address=subnet_address)
 		
 		
