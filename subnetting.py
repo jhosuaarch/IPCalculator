@@ -105,4 +105,4 @@ while True:
 	print(f"\t=> Subnet Address  : {net.network.subnet_address}")
 	print(f"\t=> Broadcast       : {net.network.broadcast}")
 	
-	input("\n\t[!] Tekan enter untuk menlanjutkan ")
+	input("\n\t[!] Tekan enter untuk melanjutkan ")
