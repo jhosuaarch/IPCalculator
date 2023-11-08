@@ -1,7 +1,7 @@
 import os
 
 banner = """
-\t\t-- IP Calculator ---
+\t\t--- IP Calculator ---
 \t\t  made by @jhosua
 """
 
