@@ -1,4 +1,4 @@
-# IPSubnetting
+# IPCalc
 Program untuk menghitung subnetting
 ### Fitur :
 - [x] Identifikasi IP Class
