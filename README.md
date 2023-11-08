@@ -1,7 +1,7 @@
 # IPCalc
 Program untuk menghitung subnetting
 ### Fitur :
-- [x] Identifikasi IP Class
+- [x] Identifikasi Kelas IP
 - [x] Jumlah Subnet
 - [x] Host Per Subnet 
 - [x] Alamat Subnet
